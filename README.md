@@ -3,9 +3,9 @@ Este repositorio contiene un juego pensado para ejecutarse en la terminal de Vis
 
 ## Instrucciones del juego 
 
--El juego selecciona aleatoriamente una palabra de una lista.
--El jugador intenta adivinar la palabra introduciendo letras.
--Tiene un máximo de 6 intentos antes de perder.
+- El juego selecciona aleatoriamente una palabra de una lista.
+- El jugador intenta adivinar la palabra introduciendo letras.
+- Tiene un máximo de 6 intentos antes de perder.
 
 ## Estructura del Repositorio
 **Archivo del Juego**
