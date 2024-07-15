@@ -1,4 +1,4 @@
-# Taller de Programación: Juego con Matrices, Laberinto
+# Taller de Programación: Juego con Matrices
 Este repositorio contiene un juego pensado para ejecutarse en la terminal de Visual Studio Code , el cual fue generado con el lenguaje c utilizando matrices.
 ## Estructura del Repositorio
 **Archivo del Juego**
