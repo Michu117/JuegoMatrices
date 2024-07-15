@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
+#include <time.h>
 
 #define MAX_LONGITUD_PALABRA 100
 #define MAX_INTENTOS 6
@@ -56,6 +57,9 @@ int main() {
     };
     
     int numeroDePalabras = sizeof(palabras) / sizeof(palabras[0]);
+    
+    // Inicializar el generador de números aleatorios
+    srand(time(NULL));
     
     // Seleccionar una palabra al azar
     int indiceAleatorio = rand() % numeroDePalabras;
