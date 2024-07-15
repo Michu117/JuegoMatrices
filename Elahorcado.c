@@ -53,7 +53,7 @@ int main() {
     printf("Bienvenido al juego de adivinar palabras\n");
     char palabras[][MAX_LONGITUD_PALABRA] = {
         "programacion", "matriz", "computadora", "juego", "ciencia", "presidente", "ingeniero", "github", "samsung", "corrector", "lapiz", "electricidad", "manzana", 
-        "piña", "naranja", "lapicero", "mundo", "soporte", "estrella", "platino", "mouse", "teclado"
+        "naranja", "lapicero", "mundo", "soporte", "estrella", "platino", "mouse", "teclado", "celular"
     };
     
     int numeroDePalabras = sizeof(palabras) / sizeof(palabras[0]);
